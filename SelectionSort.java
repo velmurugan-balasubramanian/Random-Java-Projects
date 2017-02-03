@@ -3,7 +3,7 @@
  * A class that applies Selection Sort 
  * to the array of Temperature objects
  * 
- * @author Renuka Anbalagan Lab Section 03
+ * 
  *
  */
 public class SelectionSort {

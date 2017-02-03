@@ -5,7 +5,7 @@ import java.awt.*;
  * A GUI Class that displays the sorted array 
  * and list of temperatures
  * 
- * @author Renuka Anbalagan Lab Section 03
+ * 
  *
  */
 @SuppressWarnings("serial")

@@ -2,7 +2,7 @@
  * 
  * A class that arranges the temperature node in ascending order
  * 
- * @author Renuka Anbalagan Lab Section 03
+ *
  *
  */
 public class TemperatureList {

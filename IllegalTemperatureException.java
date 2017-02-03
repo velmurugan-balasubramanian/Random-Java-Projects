@@ -1,7 +1,7 @@
 /******************************************************************************************
  * A class that deals with Illegal Temperature Exceptions
  * 
- * @author Renuka Anbalagan Lab Section 03
+ *
  *
  */
 @SuppressWarnings("serial")

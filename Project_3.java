@@ -3,7 +3,7 @@
  * A class that displays the TemperatureGUI,
  * a JFrame that works with Temperatures
  * 
- * @author Renuka Anbalagan Lab Section 03
+ * 
  *
  */
 public class Project_3 {

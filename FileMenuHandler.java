@@ -9,7 +9,7 @@ import java.io.*;
  * 
  * A class that handles the menu bar, menus and items in the menu in the JFrame
  * 
- * @author Renuka Anbalagan Lab Section 03
+ * 
  *
  */
 public class FileMenuHandler implements ActionListener {

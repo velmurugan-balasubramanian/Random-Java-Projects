@@ -2,7 +2,7 @@
  * 
  * A class that creates a node of type temperature
  * 
- * @author Renuka Anbalagan Lab Section 03
+ * 
  *
  */
 public class TemperatureNode {

@@ -1,28 +1,12 @@
 // TextFileInput.java
 
-// Copyright (c) 2000, 2005 Dorothy L. Nixon.  All rights reserved.
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.InputStreamReader;
 import java.io.IOException;
 
-/**
- * Simplified buffered character input
- * stream from an input text file.
- * Manages an input text file,
- * handling all IOExceptions by generating
- * RuntimeExcpetions (run-time error
- * messages).
- *
- * If the text file cannot be created,
- * a RuntimeException is thrown,
- * which by default results an an
- * error message being printed to
- * the standard error stream.
- *
- * @author D. Nixon
- */
+
 public class TextFileInput  {
 
    /**  Name of text file  */

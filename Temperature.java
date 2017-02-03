@@ -4,7 +4,7 @@ import java.text.DecimalFormat;
  * 
  * A class that works with Temperature values 
  *  
- * @author Renuka Anbalagan Lab Section 03
+ * 
  * 
  */
 
